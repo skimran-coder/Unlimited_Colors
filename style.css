@@ -30,9 +30,4 @@ body {
     background-color: #0056b3;
   }
   
-  /* Style the body background color */
-  body {
-    transition: background-color 0.5s ease-in-out;
-  }
-  
   
